@@ -30,6 +30,4 @@ In this work we interpret the evolution from Porygon to Porygon2 and ultimately 
 While the Up-Grade item appears to introduce a stable system update, the Dubious Disc results in noticeable instability, suggesting the installation of experimental—or possibly corrupted—code.  
 By viewing Pokémon evolution as a form of version control, we humorously explore how the final update can make a system more interesting, but not necessarily more stable.
 
----
 
-## Repository Structure
